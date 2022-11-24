@@ -14,6 +14,6 @@ About me:
 <a href="https://www.linkedin.com/in/renan-osorio-da-rosa-26a9bbb7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://github.com/renanosoriorosa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanosoriorosa&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanosoriorosa&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanosoriorosa&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanosoriorosa&layout=compact&theme=algolia)
