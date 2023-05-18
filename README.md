@@ -13,6 +13,8 @@ About me:
 <a href="https://www.instagram.com/renanosoriogd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/renan-os%C3%B3rio-da-rosa-26a9bbb7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://github.com/renanosoriorosa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
+<a href="https://medium.com/@renanosoriogd"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanosoriorosa&show_icons=true&theme=algolia)
 
